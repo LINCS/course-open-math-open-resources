@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="114" moduleid="3004" modulename="scorm" contextid="3794">
+  <scorm id="114">
+    <name>Setting Goals for the Instructional Use of OER - Presentation</name>
+    <scormtype>local</scormtype>
+    <reference>OpenMath_Mod4_SCORM.zip</reference>
+    <intro>&lt;p&gt;&lt;span style="font-family: Calibri; font-size: small;" face="Calibri"&gt;&lt;span size="3"&gt;You may be familiar with and have some practice with goal-setting because defining lesson objectives is part of the lesson planning process.&lt;/span&gt;&lt;span size="3"&gt;  &lt;/span&gt;&lt;span size="3"&gt;In this module, we will add to what we already know about goal-setting to develop objectives for lessons with OER.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Estimated time to complete this module: 12:00 minutes&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-family: Calibri; font-size: small;" size="3" face="Calibri"&gt;After selecting the title of the presentation, be sure to select the "Enter" button to start the presentation. It will open in a new window.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: small;"&gt;Transcript file: &lt;a title="Opens file in a new window" href="@@PLUGINFILE@@/OpenMath_M4_Transcript.rtf"&gt;Module 4 Math&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <version>SCORM_1.2</version>
+    <maxgrade>100</maxgrade>
+    <grademethod>1</grademethod>
+    <whatgrade>0</whatgrade>
+    <maxattempt>0</maxattempt>
+    <forcecompleted>0</forcecompleted>
+    <forcenewattempt>0</forcenewattempt>
+    <lastattemptlock>0</lastattemptlock>
+    <masteryoverride>1</masteryoverride>
+    <displayattemptstatus>1</displayattemptstatus>
+    <displaycoursestructure>0</displaycoursestructure>
+    <updatefreq>0</updatefreq>
+    <sha1hash>29c193cbab79c23a1e4c00de15d6327671240edd</sha1hash>
+    <md5hash></md5hash>
+    <revision>2</revision>
+    <launch>295</launch>
+    <skipview>0</skipview>
+    <hidebrowse>0</hidebrowse>
+    <hidetoc>3</hidetoc>
+    <nav>0</nav>
+    <navpositionleft>-100</navpositionleft>
+    <navpositiontop>-100</navpositiontop>
+    <auto>0</auto>
+    <popup>0</popup>
+    <options></options>
+    <width>800</width>
+    <height>600</height>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timemodified>1477947823</timemodified>
+    <completionstatusrequired>$@NULL@$</completionstatusrequired>
+    <completionscorerequired>$@NULL@$</completionscorerequired>
+    <completionstatusallscos>$@NULL@$</completionstatusallscos>
+    <displayactivityname>1</displayactivityname>
+    <autocommit>0</autocommit>
+    <scoes>
+      <sco id="294">
+        <manifest>_5jDmqfyXDrg_course_id</manifest>
+        <organization></organization>
+        <parent>/</parent>
+        <identifier>OpenMath_Mod4_ORG</identifier>
+        <launch></launch>
+        <scormtype></scormtype>
+        <title>OpenMath_Mod4</title>
+        <sortorder>1</sortorder>
+        <sco_datas>
+        </sco_datas>
+        <seq_ruleconds>
+        </seq_ruleconds>
+        <seq_rolluprules>
+        </seq_rolluprules>
+        <seq_objectives>
+        </seq_objectives>
+        <sco_tracks>
+        </sco_tracks>
+      </sco>
+      <sco id="295">
+        <manifest>_5jDmqfyXDrg_course_id</manifest>
+        <organization>OpenMath_Mod4_ORG</organization>
+        <parent>OpenMath_Mod4_ORG</parent>
+        <identifier>OER-STEM_Demo_SCO</identifier>
+        <launch>launcher.html</launch>
+        <scormtype>sco</scormtype>
+        <title>OER-STEM Demo</title>
+        <sortorder>2</sortorder>
+        <sco_datas>
+          <sco_data id="488">
+            <name>isvisible</name>
+            <value>true</value>
+          </sco_data>
+          <sco_data id="489">
+            <name>parameters</name>
+            <value></value>
+          </sco_data>
+        </sco_datas>
+        <seq_ruleconds>
+        </seq_ruleconds>
+        <seq_rolluprules>
+        </seq_rolluprules>
+        <seq_objectives>
+        </seq_objectives>
+        <sco_tracks>
+        </sco_tracks>
+      </sco>
+    </scoes>
+  </scorm>
+</activity>

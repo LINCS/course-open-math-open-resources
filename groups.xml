@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groups>
+  <group id="5">
+    <name>Science Facilitators</name>
+    <idnumber>Sci</idnumber>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <enrolmentkey></enrolmentkey>
+    <picture>0</picture>
+    <hidepicture>0</hidepicture>
+    <timecreated>1424194492</timecreated>
+    <timemodified>1424194516</timemodified>
+    <group_members>
+    </group_members>
+  </group>
+  <groupings>
+  </groupings>
+</groups>

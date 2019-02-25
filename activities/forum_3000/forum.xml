@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="496" moduleid="3000" modulename="forum" contextid="3790">
+  <forum id="496">
+    <type>general</type>
+    <name>Open Math with multimedia OER</name>
+    <intro>&lt;p style="text-align: left;"&gt;Many OER fall into the category of multimedia tools, for example, live video, simulations, applications, and games. Research suggests that multimedia tools can be effective additions to math instruction. Why do they say that? Do you agree?  &lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Read the following short articles from the Center for Implementing Technology in Education, &lt;i&gt;Using Multimedia Technologies in Education. &lt;/i&gt;Please explain why research suggests that multimedia can be effective for math instruction and tell us whether you agree. Also explain how multimedia OER can be used to support the development of student math practices.&lt;i&gt; &lt;/i&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;a title="Learning with Multimedia Agents" href="http://www.cited.org/index.aspx?page_id=141.#agents" target="_blank"&gt;Learning with Multimedia Agents&lt;/a&gt;&lt;br /&gt;&lt;a title="Learning Mathematics with Virtual Manipulatives" href="http://www.cited.org/index.aspx?page_id=141.#vm" target="_blank"&gt;Learning Mathematics with Virtual Manipulatives&lt;/a&gt;&lt;br /&gt; &lt;a title="Learning with Computer Games and Simulations" href="http://www.cited.org/index.aspx?page_id=141.#games" target="_blank"&gt;Learning with Computer Games and Simulations&lt;/a&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>-4</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>0</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1534175346</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+  </forum>
+</activity>

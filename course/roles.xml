@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<roles>
+  <role_overrides>
+    <override id="1891">
+      <roleid>5</roleid>
+      <capability>mod/forum:rate</capability>
+      <permission>1</permission>
+      <timemodified>1457964839</timemodified>
+      <modifierid>6</modifierid>
+    </override>
+  </role_overrides>
+  <role_assignments>
+  </role_assignments>
+</roles>

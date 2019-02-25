@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="245" moduleid="3012" modulename="resource" contextid="3802">
+  <resource id="245">
+    <name>Resource: Searching Worksheet</name>
+    <intro>&lt;p&gt;&lt;span&gt;A worksheet to help you plan and refine your searches for OER.&lt;/span&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>5</revision>
+    <timemodified>1477947856</timemodified>
+  </resource>
+</activity>

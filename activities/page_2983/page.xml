@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="492" moduleid="2983" modulename="page" contextid="3773">
+  <page id="492">
+    <name>Course description and objectives</name>
+    <intro>&lt;p style="text-align: left;"&gt;Finding OER and providing ideas&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p style="text-align: left;"&gt;This course will help math teachers find quality OER for the adult education (AE) classroom, evaluate them for appropriate classroom use, and assess their effectiveness in meeting learning objectives. It will also provide teachers with ideas and resources for instructional strategies to introduce and engage adult students in learning math. &lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="line-height: 1.231;"&gt;After completing this course, you will be able to:&lt;/span&gt;&lt;/p&gt;
+&lt;ol style="text-align: left;"&gt;
+&lt;li&gt;Identify an OER for instruction that aligns with credible math standards (e.g., College and Career Readiness Standards for Adult Education).&lt;/li&gt;
+&lt;li&gt;Develop a list of learning goals expected from the OER selection.&lt;/li&gt;
+&lt;li&gt;Prepare a unit lesson plan.&lt;/li&gt;
+&lt;li&gt;Select an appropriate instructional strategy to incorporate an OER into math instruction.&lt;/li&gt;
+&lt;li&gt;Evaluate student accomplishment and depth of content understanding using the OER in instruction and modify the lesson plan as needed.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p style="text-align: left;"&gt;&lt;strong&gt;Format&lt;/strong&gt;: Facilitated; Asynchronous; Estimated completion time: 8 weeks.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:1:{s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>8</revision>
+    <timemodified>1418778678</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="244" moduleid="2984" modulename="resource" contextid="3774">
+  <resource id="244">
+    <name>Open Math Syllabus</name>
+    <intro>&lt;p&gt;Open Math Syllabus&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <tobemigrated>0</tobemigrated>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>0</display>
+    <displayoptions>a:1:{s:10:"printintro";i:1;}</displayoptions>
+    <filterfiles>0</filterfiles>
+    <revision>5</revision>
+    <timemodified>1477951850</timemodified>
+  </resource>
+</activity>
